@@ -1,0 +1,24 @@
+{
+  "name": "replit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seaweasel/replit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seaweasel/replit/issues"
+  },
+  "homepage": "https://github.com/seaweasel/replit#readme",
+  "dependencies": {
+    "second": "^1.7.0"
+  },
+  "type": "module"
+}
